@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'The internal docs space for Upgraded',
 
   // social usernames (optional)
-  twitter: 'upgraded_dev',
-  github: 'upgraded_dev',
-  linkedin: 'rodrignaska',
+  twitter: null,
+  github: null,
+  linkedin: null,
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
